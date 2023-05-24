@@ -1,0 +1,46 @@
+
+.container{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+ }
+ #main-container{
+    
+     background-color:rgb(242, 246, 4);
+     height: 250px;
+     width: 250px;
+     border-radius: 5px;
+ }
+ 
+ #output{
+     background-color: rgb(218, 216, 216);
+     width: 230px;
+     height: 30px;
+     margin: 5px;
+ }
+ 
+ button{
+     width: 55px;
+     height: 30px;
+ }
+ table{
+   margin-left: 7px;
+   margin-top: 7px
+ }
+ 
+ 
+ #btn{
+     width: 100%;
+    background-color: rgb(44, 7, 208);
+    border: none;
+ }
+ 
+ #clear{
+     color: rgba(255, 255, 255, 0.261);
+ }
+ 
+ #tabels{
+     display: flex;
+ }
+
